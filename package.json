@@ -1,0 +1,16 @@
+{
+	"name": "ass-packward",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"start": "node --env-file=.env main.js",
+		"build": "node --env-file=.env main.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^22.13.9"
+	}
+}
